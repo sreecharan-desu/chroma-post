@@ -24,3 +24,7 @@ npm run build
 ## env
 
 copy `.env.example` to `.env` and add `VITE_REMOVEBG_API_KEY`, `VITE_UNSPLASH_ACCESS_KEY` and `VITE_PIXABAY_API_KEY`.
+
+
+## Consistency & Discipline
+This project is maintained regularly to ensure documentation clarity and code quality. Small, daily improvements are prioritized over large, infrequent updates.
